@@ -5,12 +5,12 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on something!
-- 🌱 I’m currently learning something!
-- 👯 I’m looking to collaborate on something!
-- 🤔 I’m looking for help with something!
-- 💬 Ask me about anything!
-- 📫 How to reach me: nothing!
-- 😄 Pronouns: anything!
-- ⚡ Fun fact: something happend!
+- 🔭 I’m currently working on Linux!
+- 🌱 I’m currently learning Linux!
+- 👯 I’m looking to collaborate on OpenSource Projects!
+- 🤔 I’m looking for help with Open Source Projects!
+- 💬 Ask me about Developement or anything you like!
+- 📫 How to reach me: @HamidRezaAshkiyan in Telegram!
+- 😄 Pronouns: Hamid Reza Ashkiya!
+- ⚡ Fun fact: .Net 6 released!
 
