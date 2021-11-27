@@ -11,6 +11,6 @@
 - 🤔 I’m looking for help with Open Source Projects!
 - 💬 Ask me about Developement or anything you like!
 - 📫 How to reach me: @HamidRezaAshkiyan in Telegram!
-- 😄 Pronouns: Hamid Reza Ashkiya!
+- 😄 Pronouns: Hamid Reza Ashkiyan!
 - ⚡ Fun fact: .Net 6 released!
 
