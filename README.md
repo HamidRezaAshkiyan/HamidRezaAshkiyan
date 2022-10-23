@@ -14,3 +14,4 @@
 - 😄 Pronouns: Hamid Reza Ashkiyan!
 - ⚡ Fun fact: .Net 6 released!
 
+<a href="https://app.daily.dev/hamidrezaashkiyan"><img src="https://api.daily.dev/devcards/730d5987d4d1423a89fa890cfb8c0f65.png?r=6jl" width="400" alt="Hamid Reza Ashkiyan's Dev Card"/></a>
