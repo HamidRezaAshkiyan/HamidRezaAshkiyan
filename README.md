@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi, I'm Hamid Reza Ashkiyan 👋
 
+Backend developer focused on building reliable, scalable distributed systems with .NET.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hamidrezaashkiyan/">
@@ -9,23 +10,57 @@
     />
   </a>
 
-  <a>
+  <a href="https://github.com/HamidRezaAshkiyan">
     <img
-      width="256"
-      align="right"
-      src="devcard.svg"
+      src="https://img.shields.io/github/followers/HamidRezaAshkiyan?label=GitHub&style=flat-square"
+      alt="GitHub"
     />
   </a>
+
+  <img
+    width="256"
+    align="right"
+    src="devcard.svg"
+    alt="DevCard"
+  />
 </div>
 
-## I am Hamid Reza Ashkiyan
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on Linux!
-- 🌱 I’m currently learning Linux!
-- 👯 I’m looking to collaborate on OpenSource Projects!
-- 🤔 I’m looking for help with Open Source Projects!
-- 💬 Ask me about Developement or anything you like!
-- 📫 How to reach me: @HamidRezaAshkiyan in Telegram!
-- 😄 Pronouns: Hamid Reza Ashkiyan!
-- ⚡ Fun fact: .Net 6 released!
+- 💼 Backend Developer specializing in **C#** and **ASP.NET Core**
+- 🏗️ Interested in **Distributed Systems**, **Microservices**, and **Cloud-native applications**
+- 🐳 Working with **Docker**, **RabbitMQ**, **SQL Server**, and **Redis**
+- 🌍 Open to collaborating on **Open Source** projects
+- 📚 Always learning and improving my engineering skills
 
+## 🛠 Tech Stack
+
+**Languages**
+- C#
+- SQL
+
+**Backend**
+- ASP.NET Core
+- Entity Framework Core
+- Minimal APIs
+- REST APIs
+
+**Architecture**
+- DDD
+- Clean Architecture
+- Microservices
+
+**Infrastructure**
+- Docker
+- RabbitMQ
+- Redis
+- SQL Server
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/hamidrezaashkiyan
+- Telegram: @HamidRezaAshkiyan
+
+---
+
+> *"Write code that's easy to change, not just easy to write."*
